@@ -1,3 +1,3 @@
 <script>
-document.getElementById("demo").innerHTML = "This is local changes";
+document.getElementById("demo").innerHTML = "My First Javascript";
 </script>
